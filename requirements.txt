@@ -1,6 +1,5 @@
-libxml2-dev 
-libxslt1-dev 
-python-dev
+libxml2
+libxslt1
 scrapy
 backports.ssl-match-hostname==3.5.0.1  # via docker-py
 click==6.6
